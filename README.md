@@ -1,3 +1,3 @@
 # Curso-DIO
 
-## App de Visualização de contatos em lista, feito em flutter.
+## App 01: Visualização de contatos em lista, feito em flutter.
